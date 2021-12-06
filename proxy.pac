@@ -3,7 +3,8 @@ var hosts = [
     "payoneer.com",
     "awwcor.com",
     "hellcase.com",
-    "monster.com"
+    "monster.com",
+    "kinogo.pm"
 ];
 
 function FindProxyForURL(url, host)
